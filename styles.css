@@ -34,7 +34,7 @@ body{
 }
 .Login{
     margin-top: 20px;
-    margin-left: 50%;
+    margin-left: 40%;
     border: 2px solid rgb(196, 210, 235);
     height: 292px;
     width: 254px;
@@ -42,7 +42,7 @@ body{
     position: absolute;
     align-items: center;
     justify-items: center;
-    text-align: center;
+    
     
     background-color: rgb(196, 210, 235);
 }
