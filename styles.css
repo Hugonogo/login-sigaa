@@ -22,7 +22,7 @@ body{
 }
 .image{
     margin-top: 10px;
-    text-align: center;
+    align: center;
     height: 200px;
     width: 1366px;
     display: inline-block;
