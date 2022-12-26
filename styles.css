@@ -11,10 +11,9 @@ body{
     
 }
 h1{
-    align-items: center;
-    justify-content: center;
+    text-align = center;
     font-size = 300px;
-    align: center;
+    
     
 
 }
