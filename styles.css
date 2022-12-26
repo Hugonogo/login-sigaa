@@ -13,6 +13,7 @@ body{
 h1{
     text-align: center;
     font-size: 170px;
+    align: center;
     color: rgb(55 , 67, 112);
     font-family: "Copperplane", fantasy;
 }
