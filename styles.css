@@ -43,7 +43,7 @@ header{
 }
 .img{
   width: 70%;
-  margin-top: 5%;
+  margin-top: 2%;
   display: flex;
 }
 
@@ -79,7 +79,7 @@ main{
 
 }
 .Login{
-    margin-top: 7%;
+    margin-top: 15%;
     border: 2px solid rgb(196, 210, 235);
     height: 292px;
     width: 254px;
