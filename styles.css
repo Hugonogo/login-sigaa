@@ -41,12 +41,6 @@ header{
   
   
 }
-.img{
-  width: 60%;
-  margin-top: 0.5%;
-  display: flex;
-}
-
 .header{
     text-align: center;
     color: white;
@@ -79,17 +73,18 @@ main{
 
 }
 .Login{
+    position: relative;
     margin-top: 15%;
     border: 2px solid rgb(196, 210, 235);
-    height: 292px;
-    width: 254px;
+    height: 352px;
+    width: 274px;
     position: absolute;
-   flex-direction: column;
-    
+    flex-direction: column;
     background-color: rgb(196, 210, 235);
 }
 .infos{
-    padding: 40px;
+    
+    padding: 70px;
     border-radius: 2px;
     background-color: aliceblue;
     
